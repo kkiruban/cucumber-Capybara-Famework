@@ -1,0 +1,19 @@
+# rml.behat.yml
+default:
+  context:
+    class: FeatureContext
+  paths:
+    features: features
+    bootstrap: features\bootstrap
+  extensions:
+    Behat\MinkExtension\Extension:
+      goutte: ~
+      default_session: selenium2
+      browser_name: firefox
+      selenium2:
+        capabilities:
+          browser:      firefox
+          browserName:  firefox
+          version:      ""
+        wd_host:        'http://10.75.220.173:4444/wd/hub'
+      base_url:         'http://www.royalmail.com'

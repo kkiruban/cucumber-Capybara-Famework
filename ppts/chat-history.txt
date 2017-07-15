@@ -1,0 +1,218 @@
+[9/10/2015 1:54 PM] Shenoy, Anjali: 
+Hi all
+[9/10/2015 1:54 PM] Kumar, Rakesh: 
+hi
+[9/10/2015 1:54 PM] KIRUBANAND, K: 
+hi
+[9/10/2015 1:54 PM] Shenoy, Anjali: 
+We will start the session in some time.. Let us wait for another 5 mins
+[9/10/2015 1:55 PM] Kumar, Rakesh: 
+ok
+[9/10/2015 1:55 PM] Shenoy, Anjali: 
+Request all participants, except the presenter to be on mute 
+[9/10/2015 1:55 PM] Shenoy, Anjali: 
+:)
+[9/10/2015 2:07 PM] Kumar, Rakesh: 
+yes you are audible
+[9/10/2015 2:09 PM] Kumar, Rakesh: 
+hi
+[9/10/2015 2:09 PM] Waykole, Sagar: 
+yes
+[9/10/2015 2:13 PM] N, Kishan: 
+no
+[9/10/2015 2:13 PM] Kumar, Rakesh: 
+no
+[9/10/2015 2:30 PM] KIRUBANAND, K: 
+http://rubyinstaller.org/downloads/
+[9/10/2015 2:31 PM] Potnuru, Naveen: 
+ 
+[9/10/2015 2:36 PM] Ghosh, Swapnasagarika: 
+installed
+[9/10/2015 2:36 PM] Joshi, Punit: 
+download is going on
+[9/10/2015 2:36 PM] Shenoy, Anjali: 
+Can the participants confirm please?
+[9/10/2015 2:37 PM] N, Kishan: 
+installed :D
+[9/10/2015 2:37 PM] S, Rashmi: 
+installed
+[9/10/2015 2:37 PM] Kamtekar, Prajakta: 
+in process
+[9/10/2015 2:37 PM] Kumar, Rakesh: 
+installed
+[9/10/2015 2:37 PM] Barmase, Anil: 
+still in process
+[9/10/2015 2:37 PM] Rai, Ravikumar: 
+still downloading :(
+[9/10/2015 2:37 PM] Waykole, Sagar: 
+download is going on
+[9/10/2015 2:37 PM] CS, KISHORE: 
+Installed
+[9/10/2015 2:39 PM] Shenoy, Anjali: 
+Please ensure to have admin rights for the successful installation 
+[9/10/2015 2:40 PM] Barmase, Anil: 
+I have admin rights on my PC , it is still downloading
+[9/10/2015 2:40 PM] Gundale, Ravindra: 
+some of people have admin rights to install it.
+[9/10/2015 2:41 PM] Rai, Ravikumar: 
+yes
+[9/10/2015 2:41 PM] Panchangam, Guruprasad: 
+which version should we need to install
+[9/10/2015 2:41 PM] Kashyap, Abhinav: 
+Done for me 
+[9/10/2015 2:41 PM] Shenoy, Anjali: 
+1.9.3 
+[9/10/2015 2:41 PM] Gundale, Ravindra: 
+Still downloading :(
+[9/10/2015 2:41 PM] Kamtekar, Prajakta: 
+just completed download
+[9/10/2015 2:41 PM] Kamtekar, Prajakta: 
+now installing
+[9/10/2015 2:41 PM] Walavalkar, Vrishali: 
+downloading.........
+[9/10/2015 2:42 PM] Kamtekar, Prajakta: 
+installation completed
+[9/10/2015 2:43 PM] Waykole, Sagar: 
+installation completed
+[9/10/2015 2:43 PM] Barmase, Anil: 
+Installation completed.
+[9/10/2015 2:44 PM] KIRUBANAND, K: 
+visit this link to download notpad ++ https://notepad-plus-plus.org/download/v6.8.3.html
+[9/10/2015 2:44 PM] Joshi, Punit: 
+installation completed
+[9/10/2015 2:53 PM] Gundale, Ravindra: 
+Yes
+[9/10/2015 2:53 PM] Rai, Ravikumar: 
+yes
+[9/10/2015 2:54 PM] N, Kishan: 
+taking some time for the gems to get installed
+[9/10/2015 2:54 PM] Kamtekar, Prajakta: 
+installation in process
+[9/10/2015 2:54 PM] Shenoy, Anjali: 
+yes, agree, there is a delay, but progressing :)
+[9/10/2015 2:55 PM] Joshi, Punit: 
+could you please send those gems commands
+[9/10/2015 2:55 PM] Shenoy, Anjali: 
+yes
+[9/10/2015 2:55 PM] Shenoy, Anjali: 
+gem install watir
+gem install rake  bundler yard watir-webdriver
+gem install rspec
+[9/10/2015 2:55 PM] Joshi, Punit: 
+thanks
+[9/10/2015 2:56 PM] Shenoy, Anjali: 
+np :)
+[9/10/2015 3:01 PM] Barmase, Anil: 
+Hi Anjali,
+[9/10/2015 3:02 PM] Barmase, Anil: 
+Gem installation completed
+[9/10/2015 3:02 PM] Gundale, Ravindra: 
+All gems are installed properly
+[9/10/2015 3:02 PM] Shenoy, Anjali: 
+Thanks for confirming 
+[9/10/2015 3:02 PM] Barmase, Anil: 
+Can we continue remaining session tom ?
+[9/10/2015 3:02 PM] Shinde, Vinita: 
+Hi Anjali
+[9/10/2015 3:03 PM] Shinde, Vinita: 
+just a suggestion
+[9/10/2015 3:03 PM] Shinde, Vinita: 
+is there anything reqd to be installed
+[9/10/2015 3:03 PM] Shinde, Vinita: 
+for tomorrow
+[9/10/2015 3:03 PM] Shenoy, Anjali: 
+Yes sure Vinita, 
+[9/10/2015 3:03 PM] Shinde, Vinita: 
+if Kirubanand can convey it via email
+[9/10/2015 3:03 PM] Shenoy, Anjali: 
+yes, that should save us a time 
+[9/10/2015 3:03 PM] Shinde, Vinita: 
+so that we can better utilize the time
+[9/10/2015 3:04 PM] Shenoy, Anjali: 
+right 
+[9/10/2015 3:04 PM] Shinde, Vinita: 
+thanks
+[9/10/2015 3:06 PM] Panchangam, Guruprasad: 
+guru prasad here
+[9/10/2015 3:06 PM] Gullipalli, Vijaya: 
+this is vijaya gullipalli
+[9/10/2015 3:06 PM] Joshi, Punit: 
+punit joshi here
+[9/10/2015 3:06 PM] B, Manjunath: 
+Hi
+[9/10/2015 3:06 PM] Rai, Ravikumar: 
+Ravikumar Rai present :)
+[9/10/2015 3:06 PM] Waykole, Sagar: 
+sagar waykole herer
+[9/10/2015 3:06 PM] Shinde, Vinita: 
+Vinita present :)
+[9/10/2015 3:07 PM] Ghosh, Swapnasagarika: 
+swapna sagarika ghosh  here:)
+[9/10/2015 3:07 PM] Gundale, Ravindra: 
+@kirubanand : i have installed NetBeans IDE 8.0.2.
+[9/10/2015 3:07 PM] Kamtekar, Prajakta: 
+Prajakta Kamtekar here
+[9/10/2015 3:07 PM] Pal, Rohit: 
+Rohit Pal here
+[9/10/2015 3:07 PM] Potnuru, Naveen: 
+Naveen Potnuru from Bangalore
+[9/10/2015 3:07 PM] Gundale, Ravindra: 
+Is it ok?
+[9/10/2015 3:07 PM] kala, madhuri: 
+Madhuri kala here
+[9/10/2015 3:07 PM] KANADIA, AKSHAY: 
+Akshay Kanadia here
+[9/10/2015 3:07 PM] Shaw, Hari: 
+Hari Shaw here
+[9/10/2015 3:07 PM] N, Kishan: 
+Kishan here
+[9/10/2015 3:07 PM] Kakhandki, Chetan: 
+Thanks Kiruba, I'm Chetan :D
+[9/10/2015 3:07 PM] KIRUBANAND, K: 
+:D
+[9/10/2015 3:07 PM] S, Rashmi: 
+Rashmi here
+[9/10/2015 3:07 PM] Davane, Amrut: 
+Amrut Davane here :)
+[9/10/2015 3:07 PM] Walavalkar, Vrishali: 
+present :)
+[9/10/2015 3:07 PM] CS, KISHORE: 
+Kishore Here:)
+[9/10/2015 3:07 PM] Gundale, Ravindra: 
+Ravindra Here
+[9/10/2015 3:07 PM] Kakhandki, Chetan: 
+No question from my side
+[9/10/2015 3:08 PM] Barmase, Anil: 
+Anil Barmase Here
+[9/10/2015 3:08 PM] Gundale, Ravindra: 
+@kirubanand : i have installed NetBeans IDE 8.0.2.
+[9/10/2015 3:08 PM] Shenoy, Anjali: 
+Anjali Shenoy present :)
+[9/10/2015 3:08 PM] Gundale, Ravindra: 
+is it ok?
+[9/10/2015 3:08 PM] KIRUBANAND, K: 
+no
+[9/10/2015 3:08 PM] Gundale, Ravindra: 
+Great 
+[9/10/2015 3:08 PM] Gundale, Ravindra: 
+thanks
+[9/10/2015 3:08 PM] Gundale, Ravindra: 
+Many thanks
+[9/10/2015 3:09 PM] Shenoy, Anjali: 
+
+
+
+
+Please have 
+[9/10/2015 3:09 PM] Shenoy, Anjali: 
+gem install capybara 
+
+netbeans 6.9 installed 
+[9/10/2015 3:09 PM] Shinde, Vinita: 
+Thanks a lot Anjali & Kirubanand
+[9/10/2015 3:09 PM] Pal, Rohit: 
+Thanks Kiruba
+[9/10/2015 3:09 PM] Shenoy, Anjali: 
+:)
+[9/10/2015 3:09 PM] Kamtekar, Prajakta: 
+Many Thanks

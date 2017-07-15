@@ -1,0 +1,62 @@
+cucumber with watir
+ruby with watir
+ruby with capybara
+
+ruby installer
+
+watir
+watir-webdriver
+rspec
+
+to install gem
+
+gem install gemname
+gem update  gemname
+
+
+gem install watir
+gem install rake bundler yard watir-webdriver
+gem install rspec
+
+gem install capybara
+
+in automation webelement
+
+edit box
+button
+dropdown/weblist
+radio button
+checx box
+link
+image
+
+window handling
+frame handling
+file handling-webdriver
+auto suggest
+alert handling
+
+ topic 
+cucumber with watir
+cucumber with capybara
+
+
+netbeans 6.9
+rubymine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

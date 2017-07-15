@@ -1,0 +1,137 @@
+/**
+   * @Then /^I should see the following values in "([^"]*)" as "([^"]*)" dropdown:$/
+   */
+  public function iShouldSeeTheFollowingValuesInAsDropdown($letter_size, $id, TableNode $table) {
+
+    if ($letter_size === Letter) {
+      $option_elements = $this->getSession()->getPage()->findAll('xpath', "//*[@id='" . $id . "']//option");
+
+      $values = array();
+
+      foreach ($option_elements as $element) {
+        array_push($values, $element->getText());
+      }
+      print_r($values);
+      $values_expected = $table->getHash();
+      print_r($values_expected);
+
+      foreach ($values_expected as $key => $value) {
+
+        $found = in_array($values_expected[$key]['values'], $values);
+        if (empty($found)) {
+          throw new Exception("The following '" . $values_expected[$key]['values'] . "' value not found");
+        }
+      }
+    } elseif ($letter_size === LargeLetter) {
+
+      //$this->getSession()->getPage()->find('xpath', "//div[contains(text(),'Large Letter')]")->click();
+
+      $option_elements = $this->getSession()->getPage()->findAll('xpath', "//*[@id='" . $id . "']//option");
+
+      $values = array();
+
+      foreach ($option_elements as $element) {
+        array_push($values, $element->getText());
+      }
+      print_r($values);
+      $values_expected = $table->getHash();
+      print_r($values_expected);
+
+      foreach ($values_expected as $key => $value) {
+
+        $found = in_array($values_expected[$key]['values'], $values);
+        if (empty($found)) {
+          throw new Exception("The following '" . $values_expected[$key]['values'] . "' value not found");
+        }
+      }
+    } else {
+      //$this->getSession()->getPage()->find('xpath', "//div[contains(text(),'Parcel')]")->click();
+
+      $option_elements = $this->getSession()->getPage()->findAll('xpath', "//*[@id='" . $id . "']//option");
+
+      $values = array();
+
+      foreach ($option_elements as $element) {
+        array_push($values, $element->getText());
+      }
+      print_r($values);
+      $values_expected = $table->getHash();
+      print_r($values_expected);
+
+      foreach ($values_expected as $key => $value) {
+
+        $found = in_array($values_expected[$key]['values'], $values);
+        if (empty($found)) {
+          throw new Exception("The following '" . $values_expected[$key]['values'] . "' value not found");
+        }
+      }
+    }
+  }
+
+  /**
+   * @Then /^I should see the following weights in "([^"]*)" as "([^"]*)" dropdown:$/
+   */
+  public function iShouldSeeTheFollowingWeightsInAsDropdown($letter_size, $id, TableNode $table) {
+    if ($letter_size === LargeLetter) {
+      $this->getSession()->getPage()->find('xpath', "//div[contains(text(),'Large Letter')]")->click();
+      
+
+      $option_elements = $this->getSession()->getPage()->findAll('xpath', "//*[@id='" . $id . "']//option");
+
+      $values = array();
+
+      foreach ($option_elements as $element) {
+        array_push($values, $element->getText());
+      }
+      print_r($values);
+      $values_expected = $table->getHash();
+      print_r($values_expected);
+
+      foreach ($values_expected as $key => $value) {
+
+        $found = in_array($values_expected[$key]['values'], $values);
+        if (empty($found)) {
+          throw new Exception("The following '" . $values_expected[$key]['values'] . "' value not found");
+        }
+      }
+    }
+    else {
+      $this->getSession()->getPage()->find('xpath', "//div[contains(text(),'Parcel')]")->click();
+
+      $option_elements = $this->getSession()->getPage()->findAll('xpath', "//*[@id='" . $id . "']//option");
+
+      $values = array();
+
+      foreach ($option_elements as $element) {
+        array_push($values, $element->getText());
+      }
+      print_r($values);
+      $values_expected = $table->getHash();
+      print_r($values_expected);
+
+      foreach ($values_expected as $key => $value) {
+
+        $found = in_array($values_expected[$key]['values'], $values);
+        if (empty($found)) {
+          throw new Exception("The following '" . $values_expected[$key]['values'] . "' value not found");
+        }
+      }
+    }
+  }
+
+  /** Check if page has links mentioned in links parameter.
+   *
+   * @Given /^I (?:should |)see the following:$/
+   */
+  public function iShouldSeeTheFollowingLinks(TableNode $table) {
+    $page = $this->getSession()->getPage();
+    $table = $table->getHash();
+
+    foreach ($table as $key => $value) {
+      $link = $table[$key]['links'];
+      $result = $page->findLink($link);
+      if (empty($result)) {
+        throw new Exception("The link '" . $link . "' was not found");
+      }
+    }
+  }

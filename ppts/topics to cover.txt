@@ -1,0 +1,84 @@
+  selenium grid concepts
+   
+    ci  jenkins
+
+
+
+     cucumber fe
+
+
+  today's topic is xpath
+
+    relative xpath
+    absolute xpth-
+
+    gem install cucumber
+
+    cucumber --init 
+
+     Gherkin 
+  
+    selenium grid concepts to perfrom a parallel execution
+    
+     • Feat ure
+    --• Background
+    • Scenario
+    •  Given
+    • When
+    • Then
+    • And
+    • But
+    • *
+    --• Scenario Outline
+    ---• Examples
+
+   cucumber features\ --tags @postive-flow --dry-run
+
+    cucumber --help
+
+
+
+
+    Today's topic is ruby with watir
+
+gem install watir
+gem install watir-webdriver
+gem install rspec
+gem install capybara
+
+
+    locators
+    1)id
+  2)name
+
+               3)xpath
+  4)css
+  
+  5)link text
+  6)class name
+  
+   edit box
+  button
+ radio button
+  link
+  select box/dropdrown/weblist
+   check box
+
+  cross browser testing
+  file handling
+  assertions
+
+  window handling
+  frame handling
+  file upload and download
+  
+    
+input
+   //a
+
+
+ checkpoint 
+ veriy title
+ verfiy elements
+  verfiy text
+
