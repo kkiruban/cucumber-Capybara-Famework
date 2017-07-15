@@ -1,0 +1,50 @@
+
+AdminSit:
+  Username: "dsintegration-admin@servicesource.com.sitmcafee"
+  Password: "srevds123!"
+
+OperationManagerSit:
+  Username: "mcafee.opsmgr@servicesource.com.sitmcafee"
+  Password: "testmcafee123!"
+
+OperationRepSit:
+  Username: "mcafee.opsrep@servicesource.com.sitmcafee"
+  Password: "testmcafee123!"
+
+SalesManagerSit:
+  Username: "mcafee.salesmgr@servicesource.com.sitmcafee"
+  Password: "testmcafee123!"
+
+SalesRepSit:
+  Username: "mcafee.salesrep@servicesource.com.sitmcafee"
+  Password: "testmcafee123!"
+
+SalesOperationSit:
+  Username: "mcafee.salesops@servicesource.com.sitmcafee"
+  Password: "testmcafee123!"
+
+
+
+AdminProd:
+  Username: "dsintegration-admin@servicesource.com.mcafee"
+  Password: "srevds123!"
+
+OperationManagerProd:
+  Username: "mcafee.opsmgr@servicesource.com.mcafee"
+  Password: "testmcafee123!"
+
+OperationRepProd:
+  Username: "mcafee.opsrep@servicesource.com.mcafee"
+  Password: "testmcafee123!"
+
+SalesManagerProd:
+  Username: "mcafee.salesmgr@servicesource.com.mcafee"
+  Password: "testmcafee123!"
+
+SalesRepProd:
+  Username: "mcafee.salesrep@servicesource.com.mcafee"
+  Password: "testmcafee123!"
+
+SalesOperationProd:
+  Username: "mcafee.salesops@servicesource.com.mcafee"
+  Password: "testmcafee123!"

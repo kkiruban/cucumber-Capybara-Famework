@@ -1,0 +1,15 @@
+---
+AdminUsers:
+ SheetName: "Users"
+ LastName: "D"
+ FirstName: "E"
+ UserName: "C"
+ Persona: "G"
+ UserStatus: "F"
+ Profile: "H"
+ UserRefer: ".sitmcafee"
+ Start_Row: 3
+# File_Path: "D:\\cucumber-projects\\McAfee\\mcafee\\McAfee_1P_Config_Workbook_v1.2.xlsx"
+ File_Path: "\\McAfee_1P_Config_Workbook_v1.5.xlsx"
+ 
+

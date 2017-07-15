@@ -1,0 +1,4 @@
+## YAML Template.
+---
+Testdata:
+ ContactName : "smoke-test-contact-"

@@ -1,0 +1,4 @@
+## YAML Template.
+---
+Testdata:
+ AccountName : "smoke-test-account-"

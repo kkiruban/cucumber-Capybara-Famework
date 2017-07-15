@@ -1,0 +1,7 @@
+## YAML Template.
+---
+opportunity_details:
+  Upsell_picklist_values: "--None--,NULL,Upsell,Cross-sell"
+  Client_Segment_picklist_values: "--None--,SMB,Commercial,Commercial Named"
+  start_date: "6/28/2017"
+  end_date: "9/10/2017"
