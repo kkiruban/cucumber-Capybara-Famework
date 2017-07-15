@@ -1,0 +1,49 @@
+AdminSit:
+  Username: "dsintegration-admin@servicesource.com.sitcleica"
+  Password: "srevds123!"
+
+OperationManagerSit:
+  Username: "cleica.opsmgr@servicesource.com.sitcleica"
+  Password: "testleica123!"
+
+OperationRepSit:
+  Username: "cleica.opsrep@servicesource.com.sitcleica"
+  Password: "testleica123!"
+
+SalesManagerSit:
+  Username: "cleica.salesmgr@servicesource.com.sitcleica"
+  Password: "testleica123!"
+
+SalesRepSit:
+  Username: "cleica.salesrep@servicesource.com.sitcleica"
+  Password: "testleica123!"
+
+SalesOperationSit:
+  Username: "cleica.salesops@servicesource.com.sitcleica"
+  Password: "testleica123!"
+
+
+
+AdminProd:
+ Username: "dsintegration-admin@servicesource.com.cleica"
+ Password: "srevds123!"
+
+OperationManagerProd:
+ Username: "cleica.opsmgr@servicesource.com.cleica"
+ Password: "testleica123!"
+
+OperationRepProd:
+ Username: "cleica.opsrep@servicesource.com.cleica"
+ Password: "testleica123!"
+
+SalesManagerProd:
+ Username: "cleica.salesmgr@servicesource.com.cleica"
+ Password: "testleica123!"
+
+SalesRepProd:
+ Username: "cleica.salesrep@servicesource.com.cleica"
+ Password: "testleica123!"
+
+SalesOperationProd:
+ Username: "cleica.salesops@servicesource.com.cleica"
+ Password: "testleica123!"

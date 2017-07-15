@@ -1,0 +1,4 @@
+## YAML Template.
+---
+quotes_details:
+ local_currency_code: "--None--,CAD,CHF,DKK,EUR,GBP,SEK,USD"

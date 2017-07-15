@@ -1,0 +1,15 @@
+
+AdminUsers:
+ SheetName: "Users"
+ LastName: "D"
+ FirstName: "E"
+ UserName: "C"
+ Persona: "G"
+ UserStatus: "F"
+ Profile: "H"
+ UserRefer: ".sitschneid"
+ Start_Row: 3
+ File_Path: "D:\\Leica-initialcode-30-june-2017\\leica\\Leica 1P Config Workbook v2.22.8_4.27.17 v0.8-04-July-2017.xlsx"
+
+CommonData:
+  Available Currency Code: ["CAD","CHF","DKK","EUR","GBP","SEK","USD"]

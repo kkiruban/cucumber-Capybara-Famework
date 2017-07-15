@@ -1,0 +1,12 @@
+---
+opportunity_details:
+  stage_insight1: "--None--,Awaiting NS/HA,Contact not found,Contact obtained,incorrect contact,Install Base Report Created,Leica Intervention - Support Required,On Hold - by Leica,Part of Leica Consolidation"
+  stage_insight2: "--None--,Awaiting NS/HA,Confirmed correct contact,Demo equipment,incorrect contact,Install Base Report Sent,On Hold - by Leica,Part of Leica Consolidation,Potential Loss Risk,Reseller / Dealer,Risk Due To Budget,Self Maintain Risk,Third Party Risk,Under review by customer,Unresponsive,Value Under Question,Public tender"
+  stage_insight3: "--None--,Awaiting NS/HA,incorrect contact,On Hold - by Leica,Part of Leica Consolidation,Potential Loss Risk,Presently in Forecast,Risk Due To Budget,Self Maintain Risk,Third Party Risk,Under review by customer,Unresponsive,Value Under Question,Public tender"
+  stage_insight4: "--None--,Public tender"
+  renewal_type: "--None--,ANZ,CAN,CEUR,IND,MET,NAM,NESA,NTA,SEA,SEUR,UKIR"
+  business_line: "--None--,WP,WV"
+  client_territory: "--None--,NALA,EMEA"
+  client_region: "--None--,NALA,EMEA"
+  opportunity_type: "--None--,Renewal,Non-Renewal,Warranty"
+  renewal_currency: "--None--,CAD,CHF,DKK,EUR,GBP,SEK,USD"

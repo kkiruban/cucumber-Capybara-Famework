@@ -1,0 +1,117 @@
+Opportunity:
+  Field_Name_Array: ["Stage","Close Date","Direct/Channel","SSI Theatre","Price Book","Account Name","Client Territory","Client Region","Country","Business Line","Opportunity Type","Renewal Target"]
+  Stage: ["picklist","Stage","Not Contacted"]
+  Close Date: ["date","Close Date"]
+  Opportunity Type: ["picklist","Opportunity Type","Renewal"]
+  Business Line: ["picklist","Business Line","WP"]
+  Direct/Channel: ["picklist","Direct/Channel","Direct"]
+  SSI Theatre: ["picklist","SSI Theatre","NALA"]
+  Client Territory: ["picklist","Client Territory","NALA"]
+  Country: ["picklist","Country","American Samoa"]
+  Client Region: ["picklist","Client Region","Brazil"]
+  Price Book: ["lookup","Price Book","Standard Price Book"]
+  Account Name: ["lookup","Account Name","Smoke_test_accounts_cases"]
+  Renewal Target: ["text","Renewal Target","1"]
+
+Contacts:
+  Field_Name_Array: ["Account Name"]
+  Account Name: ["lookup","Account Name","Smoke_test_accounts_cases"]
+
+Account:
+  Field_Name_Array: ["Client Company ID"]
+  Client Company ID: ["text","Client Company ID","123"]
+
+Quote Request:
+  Field_Name_Array: ["Sub Case Type","Opportunity","Contact Name","Quote Type","Status","Description"]
+  Sub Case Type: ["picklist","Sub Case Type","New"]
+  Opportunity: ["lookup","Opportunity","Smoke-test-opportunity-for-cases"]
+  Contact Name: ["lookup","Contact Name","Smoke_test_contact_cases"]
+  Quote Type: ["picklist","Quote Type","1 Year"]
+  Status: ["picklist","Status","New"]
+  Description: ["textarea","Description","Testing"]
+
+Booking Request:
+  Field_Name_Array: ["Sub Case Type","Opportunity","Contact Name","Status","Description","Contract Amount"]
+  Sub Case Type: ["picklist","Sub Case Type","New"]
+  Opportunity: ["lookup","Opportunity","Smoke-test-opportunity-for-cases"]
+  Contact Name: ["lookup","Contact Name","Smoke_test_contact_cases"]
+  Status: ["picklist","Status","New"]
+  Description: ["textarea","Description","Testing"]
+  Contract Amount: ["text","Contract Amount","1"]
+
+Lead Submission:
+  Field_Name_Array: ["Sub Case Type","Opportunity","Contact Name","Status","Description","Product(s) That Needs To Be Quoted","Applicable Discounts","New Term Dates"]
+  Sub Case Type: ["picklist","Sub Case Type","Booking"]
+  Opportunity: ["lookup","Opportunity","Smoke-test-opportunity-for-cases"]
+  Contact Name: ["lookup","Contact Name","Smoke_test_contact_cases"]
+  Status: ["picklist","Status","New"]
+  Description: ["textarea","Description","Testing"]
+  New Term Dates: ["textarea","New Term Dates","1"]
+  Applicable Discounts: ["textarea","Applicable Discounts","1"]
+  Product(s) That Needs To Be Quoted: ["textarea","Product(s) That Needs To Be Quoted","1"]
+
+Data Update Request:
+  Field_Name_Array: ["Opportunity","Contact Name","Status","Description"]
+  Opportunity: ["lookup","Opportunity","Smoke-test-opportunity-Avi"]
+  Contact Name: ["lookup","Contact Name","Smoke_test_contact_cases"]
+  Status: ["picklist","Status","New"]
+  Description: ["textarea","Description","Testing"]
+
+Data Processing Request:
+  Field_Name_Array: ["Opportunity","Contact Name","Status","Description"]
+  Opportunity: ["lookup","Opportunity","Smoke-test-opportunity-Avi"]
+  Contact Name: ["lookup","Contact Name","Smoke_test_contact_cases"]
+  Status: ["picklist","Status","New"]
+  Description: ["textarea","Description","Testing"]
+
+Review Request:
+  Field_Name_Array: ["Opportunity","Contact Name","Status","Description"]
+  Opportunity: ["lookup","Opportunity","Smoke-test-opportunity-Avi"]
+  Contact Name: ["lookup","Contact Name","Smoke_test_contact_cases"]
+  Status: ["picklist","Status","New"]
+  Description: ["textarea","Description","Testing"]
+
+Reporting Request:
+  Field_Name_Array: ["Opportunity","Contact Name","Status","Description"]
+  Opportunity: ["lookup","Opportunity","Smoke-test-opportunity-Avi"]
+  Contact Name: ["lookup","Contact Name","Smoke_test_contact_cases"]
+  Status: ["picklist","Status","New"]
+  Description: ["textarea","Description","Testing"]
+  
+Task - Standard:
+  Field_Name_Array: ["Name","Related To","Due Date","Comments"]
+  Name: ["lookup","Name","Smoke_test_contact_cases"]
+  Related To: ["lookup","Related To","Smoke-test-opportunity-for-task"]
+  Due Date: ["date","Due Date"]
+  Comments: ["textarea","Comments","Testing"]
+
+Task - Health Check:
+  Field_Name_Array: ["Name","Related To","Due Date","Comments"]
+  Name: ["lookup","Name","Smoke_test_contact_cases"]
+  Related To: ["lookup","Related To","Smoke-test-opportunity-for-task"]
+  Due Date: ["date","Due Date"]
+  Comments: ["textarea","Comments","Testing"]
+
+Task - Email:
+  Field_Name_Array: ["Name","Related To","Due Date","Comments"]
+  Name: ["lookup","Name","Smoke_test_contact_cases"]
+  Related To: ["lookup","Related To","Smoke-test-opportunity-for-task"]
+  Due Date: ["date","Due Date"]
+  Comments: ["textarea","Comments","Testing"]
+
+Task - Fax:
+  Field_Name_Array: ["Name","Related To","Due Date","Comments","Direction"]
+  Name: ["lookup","Name","Smoke_test_contact_cases"]
+  Related To: ["lookup","Related To","Smoke-test-opportunity-for-task"]
+  Due Date: ["date","Due Date"]
+  Comments: ["textarea","Comments","Testing"]
+  Direction: ["picklist","Direction","Incoming"]
+
+Task - Phone Calls:
+  Field_Name_Array: ["Name","Related To","Due Date","Comments","Direction"]
+  Name: ["lookup","Name","Smoke_test_contact_cases"]
+  Related To: ["lookup","Related To","Smoke-test-opportunity-for-task"]
+  Due Date: ["date","Due Date"]
+  Comments: ["textarea","Comments","Testing"]
+  Direction: ["picklist","Direction","Incoming"]
+

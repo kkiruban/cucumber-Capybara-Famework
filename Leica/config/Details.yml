@@ -1,0 +1,188 @@
+
+GeneralInformation:
+ EMEASunday: "Sunday"
+ BusinessHoursSunday: "No Hours"
+ EMEAMonday: "Monday"
+ EMEATuesday: "Tuesday"
+ EMEAWednesday: "Wednesday"
+ EMEAThursday: "Thursday"
+ EMEAFriday: "Friday"
+ EMEASaturday: "Saturday"
+ BusinessHoursSaturday: "No Hours"
+
+
+
+NewAccountInformation:
+ AccountName: "Account Name"
+ ParentAccount: "Parent Account"
+ AccountCurrency: "Account Currency"
+ AccountOwner: "Account Owner"
+ AccountType: "Type"
+ TextBoxValue: "text"
+ SalesCenterDefaultValue: "Liverpool"
+ AccountRequiredName: "Smoke_Test_Account_"
+ ParentAccountName: "smoke_test"
+
+
+TypePickListValues:
+ TypeValues: "Customer - Direct,Installation Partner,Technology Partner,Other"
+
+
+AccountDefaultCurrencyPickListValues:
+ AccountDefaultCurrencyValues: "BRL,CAD,CHF,CNY,DKK,GBP,JPY,MXN,NOK,PLN,SEK,TRY,ZAR"
+
+
+SREVAccountTypePickListValues:
+ SREVAccountTypeValues: "SREV,Client"
+
+
+OpportunityRelatedListValues:
+ OpportunityRelatedList: "Opportunity Name,Engagement Type,Client Region,Client Sub-Region,Stage,Earliest Expiration Date,Close Date,Owner"
+
+
+
+NewAssetInformation:
+ NoOpportunitiesMessage: "No records to display."
+ AssetsTextBox: "text"
+ ServiceTypeContract: "Contract"
+ ServiceTypeWarranty: "Warranty"
+ AssetName: "Smoke_Test_Asset_"
+ AssetSerialNumber: "10"
+ AssetProductName: "smoke_test"
+ AssetAccountName: "smoke_test"
+ AssetContactName: "smoke_test"
+ AssetDetailsPage: "Asset Detail"
+ AssetOpportunityName: "smoke_test"
+ NewAssetName: "Smoke_Test"
+ AssetCurrencyUSD: "USD - U.S. Dollar"
+
+
+
+
+Parent/ChildPickListValues:
+ Parent/ChildValues: "Parent,Child"
+
+
+HealthStatusPickListValues:
+ HealthStatusValues: "Green,Yellow,Red"
+
+
+HealthStatusReasonGreenPickListValues:
+ HealthStatusReasonGreenValues: "No Risk Perceived - Customer Healthy,No Risk - upsell/cross sell opportunity"
+
+
+
+HealthStatusReasonRedPickListValues:
+ HealthStatusReasonRedValues: "Customer Unresponsive,Customer Success - Escalation,Risk – Lack of use: Training,Risk – Lack of use: Product Complexity,Risk – Lack of use: Value perception,
+                            Risk – Lack of use: Change in business/needs,Risk – Lack of use: Change management,Risk – Lack of use: Downgrade Support,Risk – Price: Cost of product/service,
+                            Risk – Price: Budget,Risk – Price: Value Perception,Risk – Competitor: 3rd party,Risk – Competitor: In-house,Risk – Competitor: Product Replacement,
+                            Risk – Competitor: Pricing,Risk – Competitor: Unique Offering,Risk – Product/Service performance: Performance issues,Risk – Product/Service performance: Over-sold,
+                            Risk – Product/Service performance: Not meeting outcomes,Risk – Product/Service performance: EOL,Risk – Product/Service performance: Product Replacement (internal),
+                            Risk -  CSAT : Poor customer experience,Risk – Cease of Business: Out of Business,Risk – Cease of Business: M&A,Risk – Cease of Business: Bankruptcy,Risk – Other"
+
+
+UpsellLikelihoodPickListValues:
+ UpsellLikelihoodValues: "<30 Days,<60 Days,<90 Days,>90+ Days"
+
+
+OnboardingPickListValues:
+ OnboardingValues: "Yes,No"
+
+
+UpsellProductsPickListValues:
+ UpsellProductsValues: "Elekta Care - Bronze,Elekta Care - Silver,Elekta Care - Gold,Elekta Care - Platinum"
+
+
+
+NewContactInformation:
+ NoContactsMessage: "No Records to display."
+ ContactFirstName: "Smoke"
+ ContactLastName: "Smoke_Test_Contact_"
+ ContactAccountName: "smoke_test"
+
+
+RolePickListValues:
+ RoleValues: "Account Payable,Decision Maker,Gate Keeper,Champion,Product User,Elekta RSM,Elekta FSE,Billing Contact,Primary Contact,Technical Contact"
+
+
+
+NewLeadInformation:
+ FirstName: "Smoke"
+ LeadStatus: "Contacted"
+ LastName: "Smoke_Test_Lead_"
+ Company: "SalesForce"
+ LeadCurrency: "USD - U.S. Dollar"
+ LeadSourceSFDC: "SFDC"
+ LeadSourceSeibel: "Seibel"
+ LeadStatusOnHold: "On Hold"
+ LeadTextBox: "text"
+ LeadEstimatedAmount: "100"
+ LeadEstimatedCloseDate: "1/24/2018 "
+ LeadSource: "Events"
+ LeadType: "Consumables"
+ LeadSubType: "Retention"
+ AccountNameField: "Account Name"
+ AccountNameValue: "Smoke_Test"
+ LeadExpectedProductAmountField: "Expected Product Amount"
+ LeadExpectedServiceAmountField: "Expected Service Amount"
+ LeadDealValueField: "Deal Value"
+ LeadFiscalPeriodField: "Fiscal Period"
+ LeadFiscalMonthField: "Fiscal Month"
+ LeadFiscalYearField: "Fiscal Year"
+ LeadEmailField: "Email"
+ LeadDealIDField: "Deal ID"
+ LeadClientCreatedDateField: "Client Created Date"
+ LeadAdditionalInformationSection: "Additional Information"
+ LeadBusinessLineField: "Business Line"
+ LeadExpectedProductAmountValue: "150"
+ LeadExpectedServiceAmountValue: "200"
+ LeadDealValue: "10"
+ LeadFiscalPeriod: "January"
+ LeadFiscalMonth: "JAN"
+ LeadFiscalYear: "2017"
+ FirstEmail: "test"
+ LeadEmail: "@service.com"
+ LeadDealID: "12"
+ LeadClientCreatedDate: "1/27/2018"
+ LeadOpportunityNameField: "Opportunity Name"
+ LeadConvertAccountName: "Create New Account: SalesForce"
+ LeadConvertOpportunityName: "Smoke_Test_Opportunity_"
+ LeadConvertedStatusQualified: "Qualified"
+ LeadConvertPriorityNormal: "Normal"
+ LeadConvertStatusNotStarted: "Not Started"
+ LeadConvertResultAttempt: "Attempt"
+ LeadConvertDueDate: "1/30/2018"
+ LeadConvertTypeName: "Email"
+ LeadConvertSubjectName: "Smoke_Test_"
+ LeadConvertComments: "Smoke Testing"
+ NewLeadName: "Smoke_Test"
+ LeadPromoAvailableCheckBox: "checkbox"
+ NoLeadsMessage: "No records to display."
+ LeadStatusErrorMessage: "Error:When Lead Status = Disqualified, Lead Disqualification Reason must be populated"
+
+
+
+LikelihoodPickListValues:
+ LikelihoodValues: "25%,50%,75%,90%,100%"
+
+
+LeadStatusPickListValues:
+ LeadStatusValues: "Created,In progress,Invalid,Revisit,Qualified,Disqualified,Converted"
+
+
+LeadSourcePickListValues:
+ LeadSourceValues: "Web,Phone Inquiry,Partner Referral,Purchased List,Other"
+
+
+LeadTypePickListValues:
+ LeadTypeValues: "Consumables,Spare Parts,Service Contract,Equipment,Other"
+
+
+LeadSub-TypePickListValues:
+ OnboardingValues: "Retention,Recovery,Rescue"
+
+
+LeadDisqualificationReasonPickListValues:
+ LeadDisqualificationReasonValues: "No Project,No Production Lines Anymore,Production Down,Existing Sales Opportunity,Repair Completed,Duplicate Lead,
+                    Third Party Competitor,Account Maintenance Issue,Install Base Inactive,Relationship with Other Vendor,Buying on Another Account"
+

@@ -1,0 +1,8 @@
+Accounts:
+  Field_Permission_Admin: ["Number of Assets_R","Account Type_W","Customer Vertical_W","Customer Vertical Segment 2_W","Number of RLIs_W","Number of Opps_R"]
+  Field_Permission_OpsMgr: ["Number of Assets_R","Account Type_W","Customer Vertical_W","Customer Vertical Segment 2_W","Number of RLIs_R","Number of Opps_R"]
+  Field_Permission_OpsRep: ["Number of Assets_R","Account Type_W","Customer Vertical_W","Customer Vertical Segment 2_W","Number of RLIs_R","Number of Opps_R"]
+  Field_Permission_SalesMgr: ["Number of Assets_R","Account Type_R","Customer Vertical_R","Customer Vertical Segment 2_R","Number of RLIs_R","Number of Opps_R"]
+  Field_Permission_SalesRep: ["Number of Assets_R","Account Type_R","Customer Vertical_R","Customer Vertical Segment 2_R","Number of RLIs_R","Number of Opps_R"]
+  Field_Permission_SalesOps: ["Number of Assets_R","Account Type_R","Customer Vertical_R","Customer Vertical Segment 2_R","Number of RLIs_R","Number of Opps_R"]
+

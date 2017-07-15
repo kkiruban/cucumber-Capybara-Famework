@@ -1,0 +1,6 @@
+PicklistOptions:
+  Quote Type: ["Direct"]
+  Priority: ["High","Medium","Low"]
+  Status: ["Not Started","In Progress","Completed","Completed Successfully","Completed Unsuccessfully"]
+  Record Type: ["Onboarding","Health Check","Up-sell","Cross-Sell"]
+  Account Type: ["Renewal only (R)","Renewal & Warranty (R&W)","Renewal and WinBack (R&WB)","Renewal & Warranty & WinBack (R&W&WB)","Warranty only (W)","Warranty and WinBack (W&WB)","WinBack only – IBOC/IBOW (WB)"]
