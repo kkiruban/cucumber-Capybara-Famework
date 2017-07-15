@@ -1,0 +1,51 @@
+
+AdminSit:
+ Username: "dsintegration-admin@servicesource.com.sitwklegal"
+ Password: "srevds123!"
+
+OperationManagerSit:
+ Username: "wklegal.opsmgr@servicesource.com.sitwklegal"
+ Password: "testwk123!"
+
+OperationRepSit:
+ Username: "wklegal.opsrep@servicesource.com.sitwklegal"
+ Password: "testwk123!"
+
+SalesManagerSit:
+ Username: "wklegal.salesmgr@servicesource.com.sitwklegal"
+ Password: "testwk123!"
+
+SalesRepSit:
+ Username: "wklegal.salesrep@servicesource.com.sitwklegal"
+ Password: "testwk123!"
+
+SalesOperationSit:
+ Username: "wklegal.salesops@servicesource.com.sitwklegal"
+ Password: "testwk123!"
+
+
+ 
+AdminProd:
+ Username: "dsintegration-admin@servicesource.com.wklegal"
+ Password: "srevds123!"
+
+OperationManagerProd:
+ Username: "wklegal.opsmgr@servicesource.com.wklegal"
+ Password: "testwk123!"
+
+OperationRepProd:
+ Username: "wklegal.opsrep@servicesource.com.wklegal"
+ Password: "testwk123!"
+
+SalesManagerProd:
+ Username: "wklegal.salesmgr@servicesource.com.wklegal"
+ Password: "testwk123!"
+
+SalesRepProd:
+ Username: "wklegal.salesrep@servicesource.com.wklegal"
+ Password: "testwk123!"
+
+SalesOperationProd:
+ Username: "wklegal.salesops@servicesource.com.wklegal"
+ Password: "testwk123!"
+ 

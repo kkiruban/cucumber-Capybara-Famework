@@ -1,0 +1,18 @@
+AccountFields:
+ Field Name: "A"
+ Admin: "B"
+ Section Name: "B"
+ Operation Manager: "C"
+ Operation Representative: "D"
+ Sales Manager: "E"
+ Sales Representative: "F"
+ Sales Operation: "G"
+ Appearance: "B"
+ Under-Section-Appearance: "Under-Section-Appearance"
+ Field Permission: "Field Permission"
+ Left-Right-Appearance: "Left-Right-Appearance"
+ Start_Row: 2
+ Account_Excel1: "..\\AccountFields.xlsx"
+ Account_Excel: "D:\\Latest-Sample-tenant\\AccountFields.xlsx"
+
+
