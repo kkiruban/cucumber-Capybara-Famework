@@ -1,0 +1,229 @@
+
+
+MultiCurrencyInformation:
+ OpportunityNameField: "Opportunity Name"
+ OpportunityNameValue: "Smoke_test_opportunity"
+ NoOpportunityRecords: "No matches found"
+ OpportunityAccountNameField: "Account Name"
+ OpportunityAccountNameValue: "Smoke_test_accounts"
+ 
+GeneralInformation:
+ EMEASunday: "Sunday"
+ BusinessHoursSunday: "No Hours"
+ EMEAMonday: "Monday"
+ EMEATuesday: "Tuesday"
+ EMEAWednesday: "Wednesday"
+ EMEAThursday: "Thursday"
+ BusinessHoursTueToThur: "24 Hours"
+ EMEAFriday: "Friday"
+ EMEASaturday: "Saturday"
+ BusinessHoursSaturday: "No Hours"
+
+
+ActiveCurrenciesPickListValues:
+ ActiveCurrenciesValues: "USD,EUR,BRL,CAD,CHF,CNY,DKK,GBP,JPY,MXN,NOK,PLN,SEK,TRY,ZAR"
+
+
+NewAccountInformation:
+ AccountName: "Account Name"
+ ParentAccount: "Parent Account"
+ AccountCurrency: "Account Currency"
+ AccountOwner: "Account Owner"
+ AccountType: "Type"
+ TextBoxValue: "text"
+ ClientCompanyIDField: "Client Company ID"
+ ClientCompanyIDValue: "10"
+ SalesCenterDefaultValue: "Liverpool"
+ AccountRequiredName: "Smoke_Test_Account_"
+ ParentAccountName: "smoke_test"
+ OpportunityNameField: "Opportunity Name"
+ OpportunityNameValue: "Smoke_Test_Opportunity_"
+ OpportunityDetailsPage: "Opportunity Detail"
+ NoOpportunitiesMessage: "No records to display."
+ TextBoxValue: "text"
+ OpportunityAccountNameField: "Account Name"
+ OpportunityAccountNameValue: "Smoke_test"
+
+ OpportunityStageField: "Stage"
+ OpportunityStageValue: "Not Contacted"
+ OpportunityCloseDateField: "Close Date"
+ OpportunityCloseDateValue: "11/13/2017"
+ OpportunityTypeField: "Opportunity Type"
+ OpportunityTypeValue: "Enterprise"
+
+ OpportunityClientTerritoryField: "Client Territory"
+ OpportunityClientTerritoryValue: "ANZ"
+ OpportunityClientRegionField: "Client Region"
+ OpportunityClientRegionValue: "EMEA"
+ OpportunityCountryField: "Country"
+ OpportunityCountryValue: "India"
+ OpportunitySSITheatreField: "SSI Theatre"
+ OpportunitySSITheatreValue: "EMEA"
+ OpportunityPONumberField: "PO Number"
+ OpportunityPONumberValue: "10"
+ OpportunityClientBookingDateField: "Client Booking Date"
+ OpportunityClientBookingDateValue: "11/13/2017"
+ OpportunityDirectChannelField: "Direct/Channel"
+ OpportunityDirectChannelValue: "Direct"
+ OpportunityPriceBookFieldField: "Price Book"
+ OpportunityPriceBookFieldValue: "Standard Price Book"
+ OpportunityDetailPage: "Opportunity Detail"
+
+
+ BusinessLineField: "Business Line"
+ BusinessLineValue: "Core"
+ EngagementTypeField: "Engagement Type"
+ EngagementTypeValue: "Client"
+ OpportunityClientTerritoryField: "Client Territory"
+ OpportunityClientTerritoryValue: "EMEA"
+ OpportunityClientRegionField: "Client Region"
+ OpportunityClientRegionValue: "UK&I"
+ OpportunityCountryField: "Country"
+ OpportunityCountryValue: "United Kingdom"
+ OpportunitySSITheatreField: "SSI Theatre"
+ OpportunitySSITheatreValue: "EMEA"
+ OpportunityDirectChannelField: "Direct/Channel"
+ OpportunityDirectChannelValue: "Direct"
+ ClientBookingDateField: "Client Booking Date"
+ ClientBookingDateValue: "11/13/2017"
+ PONumberField: "PO Number"
+ PONumberValue: "100"
+ OpportunityPriceBookFieldField: "Price Book"
+ OpportunityPriceBookFieldValue: "Standard Price Book"
+ AccountDetailspage: "Account Detail"
+
+
+TypePickListValues:
+ TypeValues: "Customer - Direct,Installation Partner,Technology Partner,Other"
+
+
+AccountDefaultCurrencyPickListValues:
+ AccountDefaultCurrencyValues: "BRL,CAD,CHF,CNY,DKK,GBP,JPY,MXN,NOK,PLN,SEK,TRY,ZAR"
+
+
+SREVAccountTypePickListValues:
+ SREVAccountTypeValues: "SREV,Client"
+
+
+OpportunityRelatedListValues:
+ OpportunityRelatedList: "Opportunity Name,Engagement Type,Client Region,Client Sub-Region,Stage,Earliest Expiration Date,Close Date,Owner"
+
+
+
+NewAssetInformation:
+ NoOpportunitiesMessage: "No records to display."
+ AssetsTextBox: "text"
+ ServiceTypeContract: "Contract"
+ ServiceTypeWarranty: "Warranty"
+ AssetName: "Smoke_Test_Asset_"
+ AssetSerialNumber: "10"
+ AssetProductName: "smoke_test"
+ AssetAccountName: "smoke_test"
+ AssetContactName: "smoke_test"
+ AssetDetailsPage: "Asset Detail"
+ AssetOpportunityName: "smoke_test"
+ NewAssetName: "Smoke_Test"
+ AssetCurrencyUSD: "USD - U.S. Dollar"
+
+
+Parent/ChildPickListValues:
+ Parent/ChildValues: "Parent,Child"
+
+
+HealthStatusPickListValues:
+ HealthStatusValues: "Green,Yellow,Red"
+
+
+HealthStatusReasonGreenPickListValues:
+ HealthStatusReasonGreenValues: "No Risk Perceived - Customer Healthy,No Risk - upsell/cross sell opportunity"
+
+
+
+HealthStatusReasonRedPickListValues:
+ HealthStatusReasonRedValues: "Customer Unresponsive,Customer Success - Escalation,Risk – Lack of use: Training,Risk – Lack of use: Product Complexity,Risk – Lack of use: Value perception,Risk – Lack of use: Change in business/needs,Risk – Lack of use: Change management,Risk – Lack of use: Downgrade Support,Risk – Price: Cost of product/service,Risk – Price: Budget,Risk – Price: Value Perception,Risk – Competitor: 3rd party,Risk – Competitor: In-house,Risk – Competitor: Product Replacement,Risk – Competitor: Pricing,Risk – Competitor: Unique Offering,Risk – Product/Service performance: Performance issues,Risk – Product/Service performance: Over-sold,Risk – Product/Service performance: Not meeting outcomes,Risk – Product/Service performance: EOL,Risk – Product/Service performance: Product Replacement (internal),Risk -  CSAT : Poor customer experience,Risk – Cease of Business: Out of Business,Risk – Cease of Business: M&A,Risk – Cease of Business: Bankruptcy,Risk – Other,Risk - Speciality Use,Risk - Back up unit,Risk - Standalone unit,Risk - Elekta Time and Materials"
+
+
+UpsellLikelihoodPickListValues:
+ UpsellLikelihoodValues: "<30 Days,<60 Days,<90 Days,>90+ Days"
+
+
+OnboardingPickListValues:
+ OnboardingValues: "Yes,No"
+
+
+UpsellProductsPickListValues:
+ UpsellProductsValues: "Elekta Care - Bronze,Elekta Care - Silver,Elekta Care - Gold,Elekta Care - Platinum"
+
+
+
+FrequencyofUsePickListValues:
+ FrequencyofUseValues: "No longer own,Never,Back up,Once a quarter,Once a month,Once a Week,Daily - 1 shift,Daily - Multipule shifts"
+
+
+
+
+NewContactInformation:
+ NoContactsMessage: "No Records to display."
+ ContactFirstName: "Smoke"
+ ContactLastName: "Smoke_Test_Contact_"
+ ContactAccountName: "smoke_test"
+
+
+RolePickListValues:
+ RoleValues: "Account Payable,Decision Maker,Gate Keeper,Champion,Product User,Elekta RSM,Elekta FSE,Billing Contact,Primary Contact,Technical Contact"
+
+
+
+NewLeadInformation:
+ FirstName: "Smoke"
+ LeadStatus: "Contacted"
+ LastName: "Smoke_Test_Lead_"
+ Company: "SalesForce"
+ LeadCurrency: "USD - U.S. Dollar"
+ LeadTextBox: "text"
+ AccountNameField: "Account Name"
+ AccountNameValue: "Smoke_Test"
+ LeadEmailField: "Email"
+ LeadStatusField: "Lead Status"
+ LeadStatusValue: "Disqualified"
+ LeadDisqualificationReasonField: "Lead Disqualification Reason"
+ LeadDisqualificationReasonValue: "Duplicate Lead"
+ EstimatedAmountField: "Estimated Amount"
+ EstimatedAmountValue: "100"
+ EstimatedCloseDateField: "Estimated Close Date"
+ EstimatedCloseDateValue: "1/24/2018"
+ LeadDetailPage: "Lead Detail"
+ LeadDealValue: "10"
+ LeadFiscalPeriod: "January"
+ LeadFiscalMonth: "JAN"
+ LeadFiscalYear: "2017"
+ FirstEmail: "test"
+ LeadEmail: "@service.com"
+ LeadDealID: "12"
+ NoLeadsMessage: "No records to display."
+
+
+
+LikelihoodPickListValues:
+ LikelihoodValues: "25%,50%,75%,90%,100%"
+
+
+LeadStatusPickListValues:
+ LeadStatusValues: "Created,In progress,Invalid,Revisit,Qualified,Disqualified,Converted"
+
+
+LeadSourcePickListValues:
+ LeadSourceValues: "Web,Phone Inquiry,Partner Referral,Purchased List,Other"
+
+
+LeadTypePickListValues:
+ LeadTypeValues: "Consumables,Spare Parts,Service Contract,Equipment,Other"
+
+
+LeadSub-TypePickListValues:
+ LeadSub-TypeValues: "Retention,Recovery,Rescue"
+
+
+LeadDisqualificationReasonPickListValues:
+ LeadDisqualificationReasonValues: "No Project,No Production Lines Anymore,Production Down,Existing Sales Opportunity,Repair Completed,Duplicate Lead,Third Party Competitor,Account Maintenance Issue,Install Base Inactive,Relationship with Other Vendor,Buying on Another Account"
+

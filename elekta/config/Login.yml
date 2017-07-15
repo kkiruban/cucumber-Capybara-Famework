@@ -1,0 +1,50 @@
+
+AdminSit:
+  Username: "dsintegration-admin@servicesource.com.sitelekta"
+  Password: "srevds123!"
+
+OperationManagerSit:
+  Username: "elekta.opsmgr@servicesource.com.sitelekta"
+  Password: "testelekta123!"
+
+OperationRepSit:
+  Username: "elekta.opsrep@servicesource.com.sitelekta"
+  Password: "testelekta123!"
+
+SalesManagerSit:
+  Username: "elekta.salesmgr@servicesource.com.sitelekta"
+  Password: "testelekta123!"
+
+SalesRepSit:
+  Username: "elekta.salesrep@servicesource.com.sitelekta"
+  Password: "testelekta123!"
+
+SalesOperationSit:
+  Username: "elekta.salesops@servicesource.com.sitelekta"
+  Password: "testelekta123!"
+
+
+AdminProd:
+  Username: "dsintegration-admin@servicesource.com.elekta"
+  Password: "srevds123!"
+
+OperationManagerProd:
+  Username: "elekta.opsmgr@servicesource.com.elekta"
+  Password: "testelekta123!"
+
+OperationRepProd:
+  Username: "elekta.opsrep@servicesource.com.elekta"
+  Password: "testelekta123!"
+
+SalesManagerProd:
+  Username: "elekta.salesmgr@servicesource.com.elekta"
+  Password: "testelekta123!"
+
+SalesRepProd:
+  Username: "elekta.salesrep@servicesource.com.elekta"
+  Password: "testelekta123!"
+
+SalesOperationProd:
+  Username: "elekta.salesops@servicesource.com.elekta"
+  Password: "testelekta123!"
+  
